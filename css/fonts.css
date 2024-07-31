@@ -1,0 +1,11 @@
+@font-face {
+  font-family: myFont;
+  src: url('../fonts/Byekan.ttf') format('trutype'),
+       url('../fonts/Byekan.woff') format('woff');
+}
+
+@font-face {
+  font-family: myNextFont;
+  src: url('../fonts/lalezar.ttf') format('truetype'),
+       url('../fonts/lalezar.woff') format('woff');
+}
