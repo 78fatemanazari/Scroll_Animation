@@ -47,7 +47,7 @@
 
 🚀 Live Demo
 
-- https://78fatemanazari.github.io/Movies-App/
+- https://78fatemanazari.github.io/Scroll_Animation/
 
 <!-- GETTING STARTED -->
 
